@@ -145,17 +145,6 @@ https://cinemaworld.azurewebsites.net
 ### Admin Dashboard
 ![Admin Dashboard](https://github.com/stanislavstoyanov99/CinemaWorld/blob/master/screenshots/admin-dashboard.jpg)
 
-## Author
-
-[Stanislav Stoyanov](https://github.com/stanislavstoyanov99)
-- Facebook: [@Станислав Стоянов](https://www.facebook.com/profile.php?id=100000714808058)
-- LinkedIn: [@stanislavstoyanov99](https://www.linkedin.com/in/stanislavstoyanov99/)
-
-## Template authors
-
-- [Nikolay Kostov](https://github.com/NikolayIT)
-- [Vladislav Karamfilov](https://github.com/vladislav-karamfilov)
-
 ## :v: Show your opinion
 
 Give a :star: if you like this project!
